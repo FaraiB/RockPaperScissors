@@ -1,2 +1,2 @@
 # RockPaperScissors
-Rock Paper Scissors from the Odin Project
+Rock Paper Scissors from The Odin Project's (https://www.theodinproject.com/lessons/rock-paper-scissors)
